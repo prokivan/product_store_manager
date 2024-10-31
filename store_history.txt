@@ -1,0 +1,160 @@
+Time change: 2024-10-31 11:59:00
+Current balance: -500
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 5, 'Discount': 0}]
+
+Time change: 2024-10-31 11:59:00
+Current balance: -1100
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 5, 'Discount': 0}, {'Category': 'Sport', 'Name': 'Ball', 'Price': 50, 'Amount': 12, 'Discount': 0}]
+
+Time change: 2024-10-31 12:03:00
+Current balance: -1100
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 11, 'Discount': 0}]
+
+Time change: 2024-10-31 12:03:00
+Current balance: -1900
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 11, 'Discount': 0}, {'Category': 'Sport', 'Name': 'Bike', 'Price': 400, 'Amount': 2, 'Discount': 0}]
+
+Time change: 2024-10-31 12:08:00
+Current balance: -750.0
+Products in store:
+[{'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 500, 'Discount': 0}]
+
+Time change: 2024-10-31 12:11:00
+Current balance: -750.0
+Products in store:
+[{'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 500, 'Discount': 0}]
+
+Time change: 2024-10-31 12:11:00
+Current balance: 30.0
+Products in store:
+[{'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 100, 'Discount': 0}]
+
+Time change: 2024-10-31 12:15:00
+Current balance: -16.5
+Products in store:
+[{'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 11, 'Discount': 0}]
+
+Time change: 2024-10-31 12:16:00
+Current balance: -16.5
+Products in store:
+[{'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 11, 'Discount': 0}]
+
+Time change: 2024-10-31 12:32:00
+Current balance: -100
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}]
+
+Time change: 2024-10-31 12:38:00
+Current balance: -1.5
+Products in store:
+[{'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 1, 'Discount': 0}]
+
+Time change: 2024-10-31 12:40:00
+Current balance: -100
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}]
+
+Time change: 2024-10-31 12:40:00
+Current balance: -103.0
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}, {'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 2, 'Discount': 0}]
+
+Time change: 2024-10-31 12:40:00
+Current balance: -253.0
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}, {'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 2, 'Discount': 0}, {'Category': 'Sport', 'Name': 'Ball', 'Price': 50, 'Amount': 3, 'Discount': 0}]
+
+Time change: 2024-10-31 12:41:00
+Current balance: -100
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}]
+
+Time change: 2024-10-31 12:41:00
+Current balance: -103.0
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}, {'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 2, 'Discount': 0}]
+
+Time change: 2024-10-31 12:41:00
+Current balance: -253.0
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}, {'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 2, 'Discount': 0}, {'Category': 'Sport', 'Name': 'Ball', 'Price': 50, 'Amount': 3, 'Discount': 0}]
+
+Time change: 2024-10-31 12:46:00
+Current balance: -100
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}]
+
+Time change: 2024-10-31 12:46:00
+Current balance: -103.0
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}, {'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 2, 'Discount': 0}]
+
+Time change: 2024-10-31 12:47:00
+Current balance: -200
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 2, 'Discount': 0}]
+
+Time change: 2024-10-31 12:47:00
+Current balance: -70.0
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}]
+
+Time change: 2024-10-31 13:02:00
+Current balance: -100
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}]
+
+Time change: 2024-10-31 13:23:00
+Current balance: -100
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}]
+
+Time change: 2024-10-31 13:38:00
+Current balance: -3.0
+Products in store:
+[{'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 2, 'Discount': 0}]
+
+Time change: 2024-10-31 13:41:00
+Current balance: -3.0
+Products in store:
+[{'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 2, 'Discount': 0}]
+
+Time change: 2024-10-31 13:41:00
+Current balance: -1.05
+Products in store:
+[{'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 1, 'Discount': 0}]
+
+Time change: 2024-10-31 13:42:00
+Current balance: -100
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}]
+
+Time change: 2024-10-31 13:42:00
+Current balance: -103.0
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}, {'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 2, 'Discount': 0}]
+
+Time change: 2024-10-31 13:42:00
+Current balance: -253.0
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}, {'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 2, 'Discount': 0}, {'Category': 'Sport', 'Name': 'Ball', 'Price': 50, 'Amount': 3, 'Discount': 0}]
+
+Time change: 2024-10-31 13:47:00
+Current balance: -100
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}]
+
+Time change: 2024-10-31 13:47:00
+Current balance: -103.0
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}, {'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 2, 'Discount': 0}]
+
+Time change: 2024-10-31 13:47:00
+Current balance: -253.0
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 1, 'Discount': 0}, {'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 2, 'Discount': 0}, {'Category': 'Sport', 'Name': 'Ball', 'Price': 50, 'Amount': 3, 'Discount': 0}]
+
